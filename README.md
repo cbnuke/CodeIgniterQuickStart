@@ -56,7 +56,7 @@ All your code are in folder `application` and static files in `assets`
 And it changes `application/config/config.php`:
 
 ~~~
-$config['base_url'] = 'http://localhost/AccKK/';
+$config['base_url'] = 'http://localhost/CodeIgniterQuickStart/';
 ↓
 $config['base_url'] = 'YOUR SITE LOCATION';
 ~~~
